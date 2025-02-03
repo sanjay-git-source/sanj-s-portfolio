@@ -38,7 +38,7 @@ const projects = [
   {
     title: "Supermarket Billing Software (.exe)",
     description: "Developed a Java-based billing system with SQL database integration for efficient supermarket operations.",
-    image: "./src/assets/billing.jpg",
+    image: "https://i.postimg.cc/7Zsk2KdB/billing.jpg",
     link: "#",
   },
   {
