@@ -13,7 +13,7 @@ const Home = () => {
     >
       <div className="text-center">
         <motion.img 
-          src="src\assets\profilepic.jpg"
+          src="https://i.postimg.cc/76mgdd66/profilepic.jpg"
           alt="Sanjay Kumar S" 
           className="profile-img"
           initial={{ scale: 0.8 }}

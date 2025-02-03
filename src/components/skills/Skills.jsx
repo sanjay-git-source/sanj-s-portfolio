@@ -21,7 +21,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/c.png" // Add your image for C
+              src="https://i.postimg.cc/mDQn9b8n/c.png" // Add your image for C
               alt="C"
               className="skill-img mb-3"
             />
@@ -38,7 +38,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/cpp.png" // Add your image for C++
+              src="https://i.postimg.cc/BQZz8fDh/cpp.png" // Add your image for C++
               alt="C++"
               className="skill-img mb-3"
             />
@@ -72,7 +72,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/java.png" // Add your image for Java
+              src="https://i.postimg.cc/44PLR2Mp/java.png" // Add your image for Java
               alt="Java"
               className="skill-img mb-3"
             />
@@ -89,7 +89,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/html.png" // Add your image for HTML
+              src="https://i.postimg.cc/mkLmF7cc/html.png" // Add your image for HTML
               alt="HTML"
               className="skill-img mb-3"
             />
@@ -106,7 +106,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/css.png" // Add your image for CSS
+              src="https://i.postimg.cc/xTs4Mp39/css.png" // Add your image for CSS
               alt="CSS"
               className="skill-img mb-3"
             />
@@ -123,7 +123,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/js.png" // Add your image for JavaScript
+              src="https://i.postimg.cc/J0pP3tJp/js.png" // Add your image for JavaScript
               alt="JavaScript"
               className="skill-img mb-3"
             />
@@ -140,7 +140,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/php.png" // Add your image for PHP
+              src="https://i.postimg.cc/NGd4z994/php.png" // Add your image for PHP
               alt="PHP"
               className="skill-img mb-3"
             />
@@ -157,7 +157,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/mssql.png" // Add your image for SQL Server
+              src="https://i.postimg.cc/q72wb1yh/mssql.png" // Add your image for SQL Server
               alt="SQL Server"
               className="skill-img mb-3"
             />
@@ -174,7 +174,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/mysql.png" // Add your image for MySQL
+              src="https://i.postimg.cc/B6sgd2Bh/mysql.png" // Add your image for MySQL
               alt="MySQL"
               className="skill-img mb-3"
             />
@@ -209,7 +209,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/laravel.png" // Add your image for Laravel
+              src="https://i.postimg.cc/2Sb2vk5x/laravel.png" // Add your image for Laravel
               alt="Laravel"
               className="skill-img mb-3"
             />
@@ -226,7 +226,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/react.png" // Add your image for React
+              src="https://i.postimg.cc/jd9hRphn/react.png" // Add your image for React
               alt="React JS"
               className="skill-img mb-3"
             />
@@ -243,7 +243,7 @@ const Skills = () => {
   transition={{ duration: 0.8 }}
 >
             <img
-              src="src/assets/springboot.png" // Add your image for Spring Boot
+              src="https://i.postimg.cc/3wjjCdQ2/springboot.png" // Add your image for Spring Boot
               alt="Spring Boot"
               className="skill-img mb-3"
             />

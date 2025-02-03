@@ -15,7 +15,7 @@ const About = () => {
       <div className="row">
         <div className="col-md-4">
           <motion.img
-            src="src/assets/profilepic.jpg"
+            src="https://i.postimg.cc/76mgdd66/profilepic.jpg"
             alt="Profile"
             className="img-fluid rounded-circle"
             initial={{ opacity: 0, x: -50 }}  // Start left

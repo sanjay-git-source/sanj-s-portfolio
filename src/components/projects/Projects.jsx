@@ -7,32 +7,32 @@ const projects = [
   {
     title: "Hospital Management System",
     description: "Developed an integrated system to manage patient data, appointments, billing, and inventory, improving healthcare services.",
-    image: "./src/assets/dr.jpeg",
+    image: "https://i.postimg.cc/rw3ZYdHb/dr.jpg",
     link: "https://www.ssicomputereducation.com/HospitalManagementSystem/",
   },
   {
     title: "Finance Website Development",
     description: "Developed a website offering financial event updates, along with admin management functionalities.",
-    image: "./src/assets/finance.jpeg",
+    image: "https://i.postimg.cc/rp4Z6VXp/finance.jpg",
     link: "https://kingdomsfinancial.com/",
   },
   {
     title: "SSI Website Development",
     description: "Built a system for online assessments, automated grading, and certificate generation for an educational platform.",
-    image: "./src/assets/com.jpeg",
+    image: "https://i.postimg.cc/zDFMXGLb/com.jpg",
     link: "https://www.new.ssicomputereducation.com/",
   },
   
   {
     title: "Property Consultant Website",
     description: "Designed and developed a responsive website for property consultancy, ensuring seamless user experience.",
-    image: "./src/assets/home.png",
+    image: "https://i.postimg.cc/hPhrWDVq/home.png",
     link: "https://ssicomputereducation.com/ssdassetnexus.com/",
   },
   {
     title: "Football Academy Website Development",
     description: "Designed and developed a website featuring event updates, media content, and login options for admins and members.",
-    image: "./src/assets/fc.jpeg",
+    image: "https://i.postimg.cc/RZNbR1gK/fc.jpg",
     link: "https://ssicomputereducation.com/mariyafootballclub.com/",
   },
   {
@@ -44,8 +44,8 @@ const projects = [
   {
     title: "Portfolio Website",
     description: "A personal portfolio website built using React.js and Bootstrap, showcasing skills and projects.",
-    image: "./src/assets/potfolio.jpg",
-    link: "#",
+    image: "https://i.postimg.cc/wBzLvgRM/potfolio.jpg",
+    link: "https://sanjs-portfolio.netlify.app/",
   },
 ];
 
